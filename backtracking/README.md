@@ -29,6 +29,8 @@ Reach for backtracking when:
 - The problem has a natural recursive/tree-shaped decision structure (pick this or don't, place this here or not).
 - **Pruning** (cutting off branches early based on a constraint, like "sum already exceeds target") can make an otherwise exponential search tractable in practice.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

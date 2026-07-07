@@ -13,7 +13,7 @@ Problems within a category link to each other (Previous / Next) so you can work 
 
 | Category | Pattern | Problems |
 |---|---|---|
-| [Backtracking](backtracking/README.md) | Explore, choose, undo — search combinatorial state spaces | 7 |
+| [Backtracking](backtracking/README.md) ([cheatsheet](backtracking/interview-cheatsheet.md)) | Explore, choose, undo — search combinatorial state spaces | 7 |
 | [Dynamic Programming](dynamic-programming/README.md) | Optimal substructure + overlapping subproblems | 7 |
 | [Depth-First Search (DFS)](dfs/README.md) | Recursive/stack-based traversal for trees & graphs | 7 |
 | [Breadth-First Search (BFS)](bfs/README.md) | Queue-based level-order traversal, shortest paths | 7 |
