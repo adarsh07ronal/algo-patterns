@@ -18,6 +18,8 @@ Both boil down to the same idea: the greedy choice never closes off a path to op
 
 If instead the best choice at a step *depends on* choices made later, or you find yourself needing to compare many different partial solutions to know which is really best (i.e., the locally best choice can be wrong in light of future information), that's a signal you need dynamic programming instead. A practical tell: if a greedy strategy fails on some counter-example you can construct (sort order matters, ties matter, a "small" choice now blocks a "big" choice later that you can't undo), the problem usually needs DP or a more careful search rather than greedy.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

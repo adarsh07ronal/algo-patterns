@@ -26,6 +26,8 @@ Reach for DFS when:
 
 Reach for BFS instead when you need shortest-path / minimum-steps guarantees on unweighted graphs, or level-by-level processing.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

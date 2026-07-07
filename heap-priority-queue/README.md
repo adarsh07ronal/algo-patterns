@@ -29,6 +29,8 @@ Common use cases you'll see across this category:
   frequent, heaviest, etc.) item on each step, which a max-heap gives you
   in O(log n) per step instead of O(n) per step with a linear scan.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

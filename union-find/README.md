@@ -30,6 +30,8 @@ size).
   need an up-to-date answer without recomputing from scratch (DFS/BFS would need to re-traverse
   the whole graph after every change; union-find updates incrementally).
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

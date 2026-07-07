@@ -21,6 +21,8 @@ There are two common ways to implement a DP solution:
 
 Once a recurrence relation and base case(s) are identified, the rest is mechanical: define the state, write the transition, decide on memoization vs tabulation, and work out the space/time complexity.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

@@ -27,6 +27,8 @@ Reach for BFS when:
 
 Prefer DFS instead when you need to explore full paths, enumerate all possibilities, detect cycles, or when memory for a wide-but-shallow graph would make BFS's queue much larger than DFS's stack.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

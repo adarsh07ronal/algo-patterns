@@ -19,6 +19,8 @@ Because `left` and `right` each only move forward and never backtrack, the total
 - There's a running constraint or quantity to track as the window changes — a sum, a count of distinct elements, a frequency map, a max/min.
 - You're optimizing something (longest, shortest, max average) or checking existence, over all contiguous windows.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

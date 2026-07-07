@@ -30,6 +30,8 @@ pointer moves across the whole run is bounded by O(n), collapsing nested
 loops into a single linear pass (or O(n log n) when a sort is required
 first).
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |

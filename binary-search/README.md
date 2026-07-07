@@ -69,6 +69,8 @@ Rules of thumb to avoid off-by-one and infinite-loop bugs:
 - Decide up front whether the answer is guaranteed to exist in range; if not,
   validate the final `lo`/`mid` after the loop.
 
+**[Interview cheatsheet: how to remember and code this pattern from scratch](./interview-cheatsheet.md)**
+
 ## Problems
 
 | Difficulty | Problem | Notes |
